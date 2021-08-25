@@ -14,6 +14,10 @@
 
 }
 
+.card__item{
+
+}
+
 .cards__item__link{
 
 }
@@ -27,5 +31,21 @@
 }
 
 .cards__item__img{
+
+}
+
+.cards__item__img:hover{
+    
+}
+
+@media only screen and (max-width: ){
+
+}
+
+@media only screen and (max-width: ){
+    
+}
+
+@media only screen and (max-width: ){
     
 }
