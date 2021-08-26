@@ -1,0 +1,27 @@
+.card {
+    background-color: gray;
+    flex-basis: 48%;
+    margin: 1%;
+}
+
+.image {
+     width: 98%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-body{
+
+}
+
+.card-text{
+
+}
+
+@media screen and (max-width: 792px) {
+    .card {
+        flex-basis: 98%;
+        margin: 1%;
+    }
+}

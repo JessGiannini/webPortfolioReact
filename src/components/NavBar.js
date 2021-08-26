@@ -22,17 +22,17 @@ function NavBar() {
               </Link>
               </li>
               <li>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/portfolio' className='nav-links' onClick={closeMobileMenu}>
                 Portfolio
               </Link>
               </li>
               <li>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/resume' className='nav-links' onClick={closeMobileMenu}>
                 Resume
               </Link>
             </li>
            <li>
-              <Link to='/' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='/contact' className='nav-links' onClick={closeMobileMenu}>
                 Contact
               </Link>
             </li>
