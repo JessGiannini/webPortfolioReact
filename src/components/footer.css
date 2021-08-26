@@ -1,0 +1,23 @@
+#contact-links {
+    display: flex;
+    justify-content: center;
+    font-size: large white;
+}
+
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 1%;
+    background-color: grey;
+    text-align: center;
+    position: relative;
+}
+
+
+#contact-links a {
+    flex: auto;
+    display: flex;
+    justify-content: center;
+   
+}
+
