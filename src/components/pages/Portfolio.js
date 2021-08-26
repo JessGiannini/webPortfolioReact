@@ -7,9 +7,9 @@ function Portfolio() {
     var projectsinfo = [
     {name: 'Feed Your Boredom', link:'https://jessgiannini.github.io/FeedYourBoredom/', image:'./images/feedyourboredom.png', github:'https://github.com/JessGiannini/FeedYourBoredom'},
 
-    {name: 'Reciplease', link:'https://jessgiannini.github.io/Reciplease/', image:'./images/Reciplease!.gif', github:'https://github.com/JessGiannini/Reciplease'},
+    {name: 'Reciplease', link:'https://jessgiannini.github.io/Reciplease/', image:'./images/reciplease.png', github:'https://github.com/JessGiannini/Reciplease'},
 
-    {name: 'Fitness Tracker', link:'https://afternoon-spire-51413.herokuapp.com/?id=611d3c8e6027fd00162f50bc', image:'./fitnesstracker.png', github:'https://github.com/JessGiannini/trackYourFitness'},
+    {name: 'Fitness Tracker', link:'https://afternoon-spire-51413.herokuapp.com/?id=611d3c8e6027fd00162f50bc', image:'./images/fitnesstracker.png', github:'https://github.com/JessGiannini/trackYourFitness'},
 
     {name: 'Protect Your Business', link:'https://jessgiannini.github.io/ProtectYourBusiness/', image:'./images/password.png', github:'https://github.com/JessGiannini/ProtectYourBusiness'},
 
