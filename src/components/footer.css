@@ -1,23 +1,32 @@
-#contact-links {
-    display: flex;
-    justify-content: center;
-    font-size: large white;
-}
+ footer {
+     overflow: hidden; 
+     position: fixed; 
+     bottom: 0; 
+    width: 100%;
+    justify-content: center; 
+    padding-left: 30%;
+    padding-right: 30%; 
+    padding: 10%;
+}  
 
-.content {
-    display: flex;
-    flex-wrap: wrap;
-    padding-left: 1%;
-    background-color: grey;
+
+
+ .content { 
+     height: 0%;
+    /* background-color: grey;  */
+    display: block;
+} 
+
+
+ #contact-links a { 
+     flex: auto; 
+     display: flex; 
+     justify-content: center;
     text-align: center;
-    position: relative;
-}
-
-
-#contact-links a {
-    flex: auto;
-    display: flex;
-    justify-content: center;
-   
-}
+    display: block;
+    position: relative; 
+    border-radius: 20%;
+    padding: 20px;
+    margin: 20px;
+} 
 

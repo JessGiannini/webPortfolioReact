@@ -1,8 +1,10 @@
-import React from 'react'
+import React from 'react';
+
+
 
 function Resume() {
     return (
-        <div>
+        <div className="container">
       <h2> Resume </h2>
       <h3>Front-end Technologies</h3>
       <ul>
